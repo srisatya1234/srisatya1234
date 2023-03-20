@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Srisatya</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srisatya1234&label=Profile%20views&color=0e75b6&style=flat" alt="srisatya1234" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **srisatya9903@gmail.com**
 
